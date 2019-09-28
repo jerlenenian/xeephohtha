@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongechaen.liufor.com/sitemap.xml
